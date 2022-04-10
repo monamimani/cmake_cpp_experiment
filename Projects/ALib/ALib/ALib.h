@@ -1,0 +1,8 @@
+
+
+namespace ALib
+{
+
+void sayHello();
+
+}

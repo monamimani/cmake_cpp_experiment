@@ -2,6 +2,9 @@ bazel
 bazel-out
 
 _Bin
+_Build
+_Out
+out
 _BinIntermediate
 _Tmp
 
